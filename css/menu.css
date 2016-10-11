@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FFEAA0;
+    background-color:#4ED1FF ;
     position: fixed;
     top: 0;
     width: 100%;
@@ -24,5 +24,5 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #4ED1FF;
+    background-color: #FFEAA0;
 }
