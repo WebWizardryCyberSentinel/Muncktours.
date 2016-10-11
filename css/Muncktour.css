@@ -1,0 +1,28 @@
+/* Baardstylo */
+
+
+*
+  {
+  font-family: 'Open Sans'
+  }
+
+
+
+body{
+    background: #EDF47A;
+    margin: 0;
+    padding: 0;}
+header {width: 100%}
+menu {width: 50%}
+content {width: 75%}
+footer{clear: both;
+          width: 100%;}
+
+.responsive {
+   float: all;
+   margin: 0px;
+   padding: 0px;
+   max-width: 300px;
+   height: 300px;
+   border: 0px solid black;
+}
